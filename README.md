@@ -1,4 +1,10 @@
-# react-boilerplate
+# react-flats
+
+## Summary
+
+This is a simple app to exercise on React. An AirBnB like one-page app.
+
+## React-Le Wagon boilerplate config
 
 Simple react starter with the following config:
 
